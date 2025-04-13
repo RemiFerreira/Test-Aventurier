@@ -1,0 +1,8 @@
+model/WoodCellTest.class
+utils/InputHandlerTest.class
+model/PlayerTest.class
+utils/FileUtilsTest.class
+app/AppTest.class
+model/MapTest.class
+model/EmptyCellTest.class
+model/FakeMap.class
